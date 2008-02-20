@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Properties::YAML.
 
+0.02  2008-02-20
+  - Lowered the required Perl version to 5.8.5
+
 0.01  Tue Feb 19 20:35:34 2008
 	- original version; created by h2xs 1.23 with options
 		-AXn Data::Properties::YAML
