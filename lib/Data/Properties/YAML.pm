@@ -5,7 +5,7 @@ use strict;
 use warnings 'all';
 use YAML 'Load';
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 
 #====================================================================
