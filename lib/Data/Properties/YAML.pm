@@ -5,7 +5,7 @@ use strict;
 use warnings 'all';
 use YAML 'Load';
 
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 
 #====================================================================
@@ -74,6 +74,10 @@ __END__
 =head1 NAME
 
 Data::Properties::YAML - YAML-ized properties for your application
+
+=head1 DEPRECATED
+
+Do not use - this module has been deprecated.
 
 =head1 SYNOPSIS
 

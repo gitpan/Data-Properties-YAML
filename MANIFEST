@@ -5,3 +5,4 @@ README
 t/Data-Properties-YAML.t
 lib/Data/Properties/YAML.pm
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

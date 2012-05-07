@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Properties::YAML.
 
+0.04  2012-05-07
+  - DEPRECATED do not use.
+
 0.03  2011-04-02
   - Updated META.yml and Makefile.PL so that the minimum version required of the
     YAML module is no longer "" but 0 (thanks MSCHWERN!)
